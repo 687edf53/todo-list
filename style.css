@@ -12,7 +12,7 @@ form {
 input[type="text"] {
   flex-grow: 0.5;
   padding: 5px;
-  font-size: 16px;
+  font-size: 25px;
   border: 1px solid #ccc;
   border-radius: 5px;
   margin-bottom: 10px;
@@ -42,10 +42,11 @@ li {
   justify-content: space-between;
   align-items: center;
   background-color: #61b7fc;
-  font-size: 20px;
+  font-size: 25px;
   border-radius: 10px;
   width: 600px;
   margin: 10px auto;
+  margin-left: 134px;
 }
 
 .ended {
@@ -77,3 +78,4 @@ span.remove {
 
 h1 {
   text-align: center;
+}
