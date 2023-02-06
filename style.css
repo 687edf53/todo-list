@@ -6,6 +6,7 @@
 form {
   display: flex;
   margin-bottom: 10px;
+   justify-content: center;
 }
 
 input[type="text"] {
@@ -14,7 +15,7 @@ input[type="text"] {
   font-size: 16px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  margin: 10px auto;
+  margin-bottom: 10px;
 }
 
 input[type="text"]:focus {
